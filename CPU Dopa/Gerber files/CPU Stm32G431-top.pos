@@ -1,0 +1,24 @@
+### Footprint positions - created on Mon Mar  4 14:20:18 2024 ###
+### Printed by KiCad version 7.0.9
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                                             PosX       PosY       Rot  Side
+C1        12pF           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder     127.6800  -111.7200    0.0000  top
+C2        12pF           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder     127.6800   -97.1200    0.0000  top
+C3        4.3pF          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder     123.7700  -110.9700   90.0000  top
+C4        4.3pF          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder     120.5700  -110.9700   90.0000  top
+C5        220x16         CP_Radial_D5.0mm_P2.50mm                        177.7749  -112.9700    0.0000  top
+C6        100nF          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder     180.8700  -108.3200   90.0000  top
+C7        10uF           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder     173.6800  -103.3200   90.0000  top
+C8        100nF          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder     171.5800  -103.3200   90.0000  top
+C10       100nF          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder     140.9800   -98.6200    0.0000  top
+C14       100nF          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder     155.3800  -111.4200  180.0000  top
+D3        LED            LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder   157.5800  -100.5200   90.0000  top
+D4        LED            LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder   170.9800  -107.9200    0.0000  top
+J1        GRAV           PinHeader_1x04_P2.54mm_Vertical                 116.5050  -100.6200    0.0000  top
+R3        470R           R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     174.9800  -107.9200  180.0000  top
+U1        LM1117MP-3.3   SOT-223-3_TabPin2                               178.5800  -100.7200   90.0000  top
+U2        STM32G431RBTx  LQFP-64_10x10mm_P0.5mm                          148.5600  -104.3000   90.0000  top
+Y1        25Mhz          Crystal_HC49-4H_Vertical                        128.7600  -106.8700   90.0000  top
+Y2        CRYSTAL_ABS25  Crystal_SMD_Abracon_ABS25_Vertical              122.1400  -104.4700  180.0000  top
+## End
