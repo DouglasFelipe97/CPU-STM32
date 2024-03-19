@@ -1,0 +1,115 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 4e4d72d5-dbdc-4a76-9ce2-f5a97f8267d2)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "DOPA" (at 177.8 179.07 0)
+    (effects (font (face "Sitka") (size 8 8)) (justify left bottom))
+    (uuid 0c65399c-c70e-4c1c-804f-9c605d277ca6)
+  )
+  (text "Raiz CPU 32G431" (at 187.325 190.5 0)
+    (effects (font (size 1.5 1.5)) (justify left bottom))
+    (uuid 63610fb2-138d-4ce8-86bf-d3e576b55539)
+  )
+  (text "01/2024" (at 207.01 194.31 0)
+    (effects (font (size 1.5 1.5)) (justify left bottom))
+    (uuid 6e5db169-211b-48b0-9d1d-46cec252a727)
+  )
+  (text "1,0" (at 268.605 194.31 0)
+    (effects (font (size 1.5 1.5)) (justify left bottom))
+    (uuid aec329a1-9620-4b66-a108-64b806074f58)
+  )
+  (text "SISTEMAS EMBARCADOS" (at 178.435 178.435 0)
+    (effects (font (face "Sitka") (size 1.3 1.3)) (justify left bottom))
+    (uuid bfcfbe9a-c484-4d4a-97d6-5a6828546a0a)
+  )
+
+  (sheet (at 156.845 103.505) (size 12.7 19.685) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0597d64a-05e7-4109-81f0-978aa3e72d76)
+    (property "Sheetname" "EEPROM" (at 156.845 102.7934 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "E2P.kicad_sch" (at 156.845 123.7746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "CPU Stm32"
+        (path "/0882ad57-6d26-4cfc-9dea-dd977232d729" (page "4"))
+      )
+      (project "CPU Stm32G431"
+        (path "/4e4d72d5-dbdc-4a76-9ce2-f5a97f8267d2" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 133.985 74.93) (size 12.7 19.685) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3c7c638d-6e79-4a01-8651-6cf753228f77)
+    (property "Sheetname" "Regulador" (at 133.985 74.2184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Reg.kicad_sch" (at 133.985 95.1996 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "CPU Stm32"
+        (path "/0882ad57-6d26-4cfc-9dea-dd977232d729" (page "5"))
+      )
+      (project "CPU Stm32G431"
+        (path "/4e4d72d5-dbdc-4a76-9ce2-f5a97f8267d2" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 110.49 103.505) (size 12.7 19.685) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a7484047-0327-4646-bb8d-d79b1e2bada5)
+    (property "Sheetname" "Osciladores" (at 110.49 102.7934 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Osc.kicad_sch" (at 110.49 123.7746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "CPU Stm32"
+        (path "/0882ad57-6d26-4cfc-9dea-dd977232d729" (page "3"))
+      )
+      (project "CPU Stm32G431"
+        (path "/4e4d72d5-dbdc-4a76-9ce2-f5a97f8267d2" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 133.985 103.505) (size 12.7 19.685) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c276e359-996b-43e7-b0a0-b77cdf843b15)
+    (property "Sheetname" "Mcu" (at 133.985 102.7934 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Mcu.kicad_sch" (at 133.985 123.7746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "CPU Stm32"
+        (path "/0882ad57-6d26-4cfc-9dea-dd977232d729" (page "2"))
+      )
+      (project "CPU Stm32G431"
+        (path "/4e4d72d5-dbdc-4a76-9ce2-f5a97f8267d2" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
