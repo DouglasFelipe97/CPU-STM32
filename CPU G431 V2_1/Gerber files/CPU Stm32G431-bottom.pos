@@ -1,0 +1,26 @@
+### Footprint positions - created on 2024-03-27T10:15:58-0300 ###
+### Printed by KiCad version 8.0.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val        Package                                           PosX       PosY       Rot  Side
+C1        100nF      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   142.2000   -98.0000  -90.0000  bottom
+C6        100nF      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   166.7000  -105.6000   90.0000  bottom
+C11       10uF       C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   154.1000   -94.4000  -90.0000  bottom
+C12       100nF      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   148.4000  -107.0000  -90.0000  bottom
+C13       100nF      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   151.7000   -94.4000  -90.0000  bottom
+C14       100nF      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   151.6000  -104.4000  -90.0000  bottom
+C15       100nF      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   146.7000  -102.9000  -90.0000  bottom
+C16       100nF      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   155.5000  -104.4000  -90.0000  bottom
+C17       100nF      C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   142.4000  -112.4000    0.0000  bottom
+D3        US1M       D_SMA                                         154.3800  -111.0000    0.0000  bottom
+D4        US1M       D_SMA                                         154.3750  -114.8000    0.0000  bottom
+D5        SMAJ6.5CA  D_SMA                                         179.2400  -116.2000  180.0000  bottom
+J2        LADO_DIR   PinHeader_1x25_P2.54mm_Vertical               119.3400   -89.1900  -90.0000  bottom
+J3        LADO_DIR   PinHeader_1x25_P2.54mm_Vertical               119.3500  -119.6700  -90.0000  bottom
+R1        10k        R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   143.5000  -108.8000   90.0000  bottom
+R4        4k7        R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   160.0000   -92.7000  -90.0000  bottom
+R5        4k7        R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   162.5000   -92.7000  -90.0000  bottom
+R6        4k7        R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   162.5000   -96.5000   90.0000  bottom
+R7        4k7        R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   160.0000   -96.5000   90.0000  bottom
+U2        24LC64     SOIC-8_3.9x4.9mm_P1.27mm                      162.3800  -104.4200   90.0000  bottom
+## End
